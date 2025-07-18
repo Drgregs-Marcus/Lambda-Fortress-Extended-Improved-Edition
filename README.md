@@ -86,6 +86,8 @@ Infinite AR2 Alt-Fire ( Reason: Source code modification / Large amounts of item
 
 Non-Functional LEAP meter ( Reason: Source code modification / Large amounts of items_game.txt changes )
 
+Ammo section on Fast Zombie Claw ( Reason: Source code modification / Large amounts of items_game.txt changes )
+
 
 # WARNING! INCOMPATIBLE WITH ANY CUSTOM WEAPON PACKAGE!
 
