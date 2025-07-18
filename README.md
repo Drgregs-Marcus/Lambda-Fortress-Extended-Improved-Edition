@@ -71,7 +71,7 @@ Fixed an issue where the cowmangler would have glowing white parts
 
 ## Removals
 
-Removed useless weapon data
+SOON: Removed useless weapon data
 
 
 
