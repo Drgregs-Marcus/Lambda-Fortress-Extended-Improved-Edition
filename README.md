@@ -10,9 +10,9 @@ Added leaderboard class icons for every special class
 
 ### Civilian
 
-The Civilian now uses the TF2c model ( Issue: Reference pose while holding Gravity Gun and Grappling Gun )
+The Civilian now uses the TF2c model ( Issue: Reference pose while holding Gravity Gun and Grappling Gun. )
 
-The Umbrella uses the TF2c model and weapon icon
+The Umbrella uses the TF2c model and weapon icon ( Issue: Umbrella will use incorrect team color in third-person )
 
 ### Combine Soldier
 
@@ -67,7 +67,7 @@ SOON: Fixed an issue where the "Medikit" from the TFC mode would crash the game 
 
 SOON: Fixed an issue where weapons would have misordered attributes
 
-Fixed an issue where the cowmangler would have glowing white parts
+Fixed an issue where the Cowmangler would have glowing white parts ( Issue: The Cowmangler is no longer team colored )
 
 ## Removals
 
@@ -78,9 +78,9 @@ SOON: Removed useless weapon data
 ## Can't/Won't fix
 
 
-Minimal Viewmodel non-functional
+The "Use minimalized viewmodels" option not functioning ( Reason: Source code modification )
 
-AR2 Primary Fire
+AR2 Primary Fire not functioning ( Reason: Source code modification / Large amounts of items_game.txt changes )
 
 
 # WARNING! INCOMPATIBLE WITH ANY CUSTOM WEAPON PACKAGE!
