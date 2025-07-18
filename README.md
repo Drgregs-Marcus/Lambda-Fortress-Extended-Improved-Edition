@@ -63,8 +63,6 @@ Gravity gun now uses the HL2 texture
 ## Fixes
 
 
-SOON: Fixed an issue where the "Medikit" from the TFC mode would crash the game on use
-
 SOON: Phlog's "Invulnerable while 'Mmmph' taunting." text being cut off
 
 SOON: Fixed an issue where weapons would have misordered attributes
@@ -91,6 +89,8 @@ Non-Functional LEAP meter ( Reason: Source code modification / Large amounts of 
 Ammo section on Fast Zombie Claw ( Reason: Source code modification / Large amounts of items_game.txt changes )
 
 Cowmangler having no reload animation ( Reason: Source code modification / Large amounts of items_game.txt changes )
+
+TFC Medikit crashing game on use ( Reason: Source code modification / Large amounts of items_game.txt changes )
 
 
 # WARNING! INCOMPATIBLE WITH ANY CUSTOM WEAPON PACKAGE!
