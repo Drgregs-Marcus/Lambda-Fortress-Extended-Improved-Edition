@@ -82,6 +82,10 @@ The "Use minimalized viewmodels" option not functioning ( Reason: Source code mo
 
 AR2 Primary Fire not functioning ( Reason: Source code modification / Large amounts of items_game.txt changes )
 
+Infinite AR2 Alt-Fire ( Reason: Source code modification / Large amounts of items_game.txt changes )
+
+Non-Functional LEAP meter ( Reason: Source code modification / Large amounts of items_game.txt changes )
+
 
 # WARNING! INCOMPATIBLE WITH ANY CUSTOM WEAPON PACKAGE!
 
