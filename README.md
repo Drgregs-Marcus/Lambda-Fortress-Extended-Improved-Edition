@@ -63,9 +63,15 @@ Gravity gun now uses the HL2 texture
 ## Fixes
 
 
-Fixed every weapon by removing useless data and reordering every attribute
+SOON: Fixed an issue where the "Medikit" from the TFC mode would crash the game on use
+
+SOON: Fixed an issue where weapons would have misordered attributes
 
 Fixed an issue where the cowmangler would have glowing white parts
+
+## Removals
+
+Removed useless weapon data
 
 
 
