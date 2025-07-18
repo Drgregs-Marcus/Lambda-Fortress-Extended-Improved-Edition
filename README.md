@@ -65,6 +65,8 @@ Gravity gun now uses the HL2 texture
 
 SOON: Phlog's "Invulnerable while 'Mmmph' taunting." text being cut off
 
+SOON: Fixed sapper's description
+
 SOON: Fixed an issue where weapons would have misordered attributes
 
 Fixed an issue where the Cowmangler would have glowing white parts ( Issue: The Cowmangler is no longer team colored )
