@@ -11261,6 +11261,10 @@
 				"sound_reload"		"Weapon_CowMangler.Reload"
 				"sound_special1"	"Weapon_CowMangler.Charging"
 				"sound_special2"	"Weapon_CowMangler.Idle"
+				"animation_replacement"
+				{
+					"ACT_VM_RELOAD"			"ACT_SECONDARY_VM_RELOAD"
+				}
 			}
 			"mouse_pressed_sound"	"ui/item_heavy_gun_pickup.wav"
 			"drop_sound"		"ui/item_heavy_gun_drop.wav"
@@ -12760,6 +12764,16 @@
 				"burn damage earns rage"
 				{
 					"attribute_class"	"burn_damage_earns_rage"
+					"value" "1"
+				}
+				"burn damage earns rage 1 DISPLAY ONLY"
+				{
+					"attribute_class"	"DISPLAY_ONLY"
+					"value" "1"
+				}
+				"burn damage earns rage 2 DISPLAY ONLY"
+				{
+					"attribute_class"	"DISPLAY_ONLY"
 					"value" "1"
 				}
 				"mod soldier buff type"
@@ -18893,7 +18907,7 @@
 			"image_inventory_size_w"		"128"
 			"image_inventory_size_h"		"82"
 			"model_player"	"models/empty.mdl"
-			"attach_to_hands" "0"
+			"attach_to_hands" "1"
 			"inspect_panel_dist" "40"
 			"item_quality"	"unique"
 			"propername"	"1"
@@ -18926,7 +18940,7 @@
 			"image_inventory_size_w"		"128"
 			"image_inventory_size_h"		"82"
 			"model_player"	"models/empty.mdl"
-			"attach_to_hands" "0"
+			"attach_to_hands" "1"
 			"inspect_panel_dist" "40"
 			"item_quality"	"unique"
 			"propername"	"1"
@@ -28425,6 +28439,26 @@
 			"attribute_class"	"stickybomb_quickie"
 			"description_format"	"value_is_additive"
 			"hidden"	"1"
+			"effect_type"	"positive"
+			"stored_as_integer"	"0"
+		}
+		"10019"
+		{
+			"name"	"burn damage earns rage 1 DISPLAY ONLY"
+			"attribute_class"	"DISPLAY_ONLY"
+			"description_string"	"#Attrib_BurnDamageEarnsRage_1"
+			"description_format"	"value_is_additive"
+			"hidden"	"0"
+			"effect_type"	"positive"
+			"stored_as_integer"	"0"
+		}
+		"10020"
+		{
+			"name"	"burn damage earns rage 2 DISPLAY ONLY"
+			"attribute_class"	"DISPLAY_ONLY"
+			"description_string"	"#Attrib_BurnDamageEarnsRage_2"
+			"description_format"	"value_is_additive"
+			"hidden"	"0"
 			"effect_type"	"positive"
 			"stored_as_integer"	"0"
 		}
