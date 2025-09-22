@@ -4,8 +4,6 @@ Lambda Fortress Extended : Definitive Edition [ LFE:DE for short ] is a client-s
 
 ## Improved Special Classes
 
-SOON: Added special classes hands to the gravity gun model
-
 Added leaderboard class icons for every special class
 
 ### Civilian
@@ -39,23 +37,10 @@ The Zombie's claw now has a new weapon icon
 Fixed an issue with the "leap meter" where there were no proper translations
 
 
-## LF_DevTest_Improved
-
-SOON:
-
-Better texturing
-
-Better geometry
-
-Better lighting
-
-Better skybox
-
-
 ## Changes
 
 
-Weapons no longer have "The" at the start of their name, hopefully solving various issues. ( NOT DONE: Versions for other languages )
+Weapons no longer have "The" at the start of their name, hopefully solving various issues.
 
 Gravity gun now uses the HL2 texture
 
@@ -68,13 +53,12 @@ Phlog's "Invulnerable while 'Mmmph' taunting." text being cut off
 
 Fixed sapper's description
 
-SOON: Fixed an issue where weapons would have misordered attributes
-
 Fixed an issue where the Cowmangler would have glowing white parts ( Issue: The Cowmangler is no longer team colored )
 
-## Removals
+# Coming Soon
 
-SOON: Removed useless weapon data
+Fixed an issue where weapons would have misordered attributes
+Removed useless weapon data
 
 
 
@@ -89,7 +73,7 @@ Infinite AR2 Alt-Fire ( Reason: Source code modification / Large amounts of item
 
 Non-Functional LEAP meter ( Reason: Source code modification / Large amounts of items_game.txt changes )
 
-Ammo section on Fast Zombie Claw ( Reason: Source code modification / Large amounts of items_game.txt changes )
+Ammo HUD element on Fast Zombie Claw ( Reason: Source code modification / Large amounts of items_game.txt changes )
 
 TFC Medikit crashing game on use ( Reason: Source code modification / Large amounts of items_game.txt changes )
 
