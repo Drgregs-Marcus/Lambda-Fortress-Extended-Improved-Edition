@@ -81,7 +81,7 @@ Fixed sapper's description
 
 Fixed an issue where the Cowmangler would have glowing white parts ( Issue: The Cowmangler is no longer team colored )
 
-# Coming Soon
+## Coming Soon
 
 Fixed an issue where weapons would have misordered attributes
 Removed useless weapon data
@@ -104,7 +104,7 @@ Ammo HUD element on Fast Zombie Claw ( Reason: Source code modification / Large 
 
 TFC Medikit is crashing the game on use ( Reason: Source code modification / Large amounts of items_game.txt changes )
 
-## Warnings
+# Warnings
 ### INCOMPATIBLE WITH ANY CUSTOM WEAPON PACKAGE!
 
 ### UNTESTED ON SERVERS THAT DO NOT HAVE THIS MOD INSTALLED!
