@@ -67,7 +67,7 @@ Fixed an issue with the "leap meter" where there were no proper translations
 ## Changes
 
 
-Weapons no longer have "The" at the start of their name, hopefully solving various issues.
+Weapons no longer have "The" at the start of their name
 
 Gravity gun now uses the HL2 texture
 
