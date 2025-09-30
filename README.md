@@ -12,7 +12,7 @@
 Github desktop install instructions:
 1. Download Github desktop: https://desktop.github.com/
 2. Create custom folder in your tf_coop_extended folder (ignore this step if you already have a custom folder)
-3. Add > Clone repository > URL > Paste this in text box:(https://github.com/Drgregs-Marcus/Lambda-Fortress-Extended-Definitive-Edition)
+3. Add > Clone repository > URL > Paste this in text box:(https://github.com/Drgregs-Marcus/Lambda-Fortress-Extended-Improved-Edition)
 4. Change Local Path to: C:\Program Files (x86)\Steam\steamapps\sourcemods\tf_coop_extended\custom (or whatever your TF_COOP_EXTENDED Custom folder Directory is)
 5. Clone
 6. Now you can easily update the pack by doing: Fetch origin > Pull origin
