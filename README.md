@@ -59,7 +59,8 @@ Fixed an issue where the Cowmangler would have glowing white parts ( Issue: The 
 
 Fixed an issue where weapons would have misordered attributes
 Removed useless weapon data
-
+Weapons displaying certain hidden attributes
+loadout menu displays commands to enable special classes, commands to use special classes, and each special class name.
 
 
 ## Can't/Won't fix
