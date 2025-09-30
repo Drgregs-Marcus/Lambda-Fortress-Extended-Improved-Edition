@@ -22,7 +22,8 @@ Note: I know the second one might be a lot harder, but it does save time and dis
  
 Uninstall instructions:
  
-Step 1. Locate your Custom folder that is inside TF_COOP_EXTENDED 
+Step 1. Locate your Custom folder that is inside TF_COOP_EXTENDED
+
 Step 2. Remove the "Lambda-Fortress-Extended-Improved-Edition" folder
  
 
