@@ -1,5 +1,5 @@
 # Lambda Fortress Extended : Improved Edition
-## Lambda Fortress Extended : Improved Edition [ LFE:DE for short ] is a client-sided mod for Lambda Fortress : Extended that aims to fix as many issues as possible without any source-code modification.
+## Lambda Fortress Extended : Improved Edition [ LFE:IE for short ] is a client-sided mod for Lambda Fortress : Extended that aims to fix as many issues as possible without any source-code modification.
 
 # Install instructions:
 1. Download by clicking on Code > Download Zip
