@@ -105,7 +105,9 @@ Ammo HUD element on Fast Zombie Claw ( Reason: Source code modification / Large 
 TFC Medikit is crashing the game on use ( Reason: Source code modification / Large amounts of items_game.txt changes )
 
 ## Warnings
-INCOMPATIBLE WITH ANY CUSTOM WEAPON PACKAGE!
-UNTESTED ON SERVERS THAT DO NOT HAVE THIS MOD INSTALLED!
-THIS IS NOT AFFILIATED WITH COAXION!
+### INCOMPATIBLE WITH ANY CUSTOM WEAPON PACKAGE!
+
+### UNTESTED ON SERVERS THAT DO NOT HAVE THIS MOD INSTALLED!
+
+### THIS IS NOT AFFILIATED WITH COAXION!
 
