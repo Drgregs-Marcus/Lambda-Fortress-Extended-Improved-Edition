@@ -1,5 +1,5 @@
-# Lambda Fortress Extended : Definitive Edition
-## Lambda Fortress Extended : Definitive Edition [ LFE:DE for short ] is a client-sided mod for Lambda Fortress : Extended that aims to fix as many issues as possible without any source-code modification.
+# Lambda Fortress Extended : Improved Edition
+## Lambda Fortress Extended : Improved Edition [ LFE:IE for short ] is a client-sided mod for Lambda Fortress : Extended that aims to fix as many issues as possible without any source-code modification.
 
 # Install instructions:
 1. Download by clicking on Code > Download Zip
@@ -23,7 +23,7 @@ Note: I know the second one might be a lot harder, but it does save time and dis
 Uninstall instructions:
  
 Step 1. Locate your Custom folder that is inside TF_COOP_EXTENDED 
-Step 2. Remove the "Lambda-Fortress-Extended-Definitive-Edition" folder
+Step 2. Remove the "Lambda-Fortress-Extended-Improved-Edition" folder
  
 
 
