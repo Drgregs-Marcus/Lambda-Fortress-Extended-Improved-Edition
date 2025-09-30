@@ -493,78 +493,78 @@ Build teleporters to help team mates get to the front lines!"
 "TF_Unique_Prepend_Proper_Quality"	"The"	[$ENGLISH]		// no space; English-only
 "TF_NonUnique_Prepend_Proper"		"A"	[$ENGLISH]			// DEPRECATED
 "TF_NonUnique_Append_Proper"	"(%s1)"	[$!ENGLISH]			// DEPRECATED
-"TF_Unique_Achievement_Medigun1"	"Kritzkrieg"	// ADD THE
-"TF_Unique_Achievement_Syringegun1"	"Blutsauger"	// ADD THE
-"TF_Unique_Achievement_Bonesaw1"	"Ubersaw"	// ADD THE
-"TF_Unique_Achievement_FireAxe1"	"Axtinguisher"	// ADD THE
-"TF_Unique_Achievement_FlareGun"	"Flare Gun"	// ADD THE
+"TF_Unique_Achievement_Medigun1"	"Kritzkrieg"
+"TF_Unique_Achievement_Syringegun1"	"Blutsauger"
+"TF_Unique_Achievement_Bonesaw1"	"Ubersaw"
+"TF_Unique_Achievement_FireAxe1"	"Axtinguisher"
+"TF_Unique_Achievement_FlareGun"	"Flare Gun"
 "TF_Unique_Achievement_Flaregun_desc"	"This weapon will reload when not active"
-"TF_Unique_Achievement_Flamethrower"	"Backburner"	// ADD THE
-"TF_Unique_Achievement_LunchBox"	"Sandvich"	// ADD THE
+"TF_Unique_Achievement_Flamethrower"	"Backburner"
+"TF_Unique_Achievement_LunchBox"	"Sandvich"
 "TF_Sandvich_desc"					"Eat to regain up to 300 health.\nAlt-fire: Share a Sandvich with a friend (Medium Health Kit)"
 "TF_Unique_Achievement_Minigun"		"Natascha"
-"TF_Unique_Achievement_Fists"		"Killing Gloves of Boxing"	// ADD THE
-"TF_Unique_Achievement_Bat"		"Sandman"	// ADD THE
-"TF_Unique_Achievement_Scattergun_Double" "Force-A-Nature"	// ADD THE
+"TF_Unique_Achievement_Fists"		"Killing Gloves of Boxing"
+"TF_Unique_Achievement_Bat"		"Sandman"
+"TF_Unique_Achievement_Scattergun_Double" "Force-A-Nature"
 "TF_Unique_Achievement_Scattergun_Double_desc"	"This weapon reloads its entire clip at once"
 "TF_Unique_Achievement_EnergyDrink"	"Bonk! Atomic Punch"
 "TF_Unique_Achievement_EnergyDrink_desc"	"Drink to become invulnerable for 8 seconds.  Cannot attack during this time.\nDamage absorbed will slow you when the effect ends."
-"TF_Unique_Achievement_SniperRifle"	"Walkabout"	// ADD THE
-"TF_Unique_Achievement_CloakWatch"	"Cloak and Dagger"	// ADD THE
-"TF_Unique_Achievement_FeignWatch"	"Dead Ringer"	// ADD THE
-"TF_Unique_Achievement_Revolver"	"Ambassador"	// ADD THE
-"TF_Unique_Backstab_Shield"		"Razorback"	// ADD THE
+"TF_Unique_Achievement_SniperRifle"	"Walkabout"
+"TF_Unique_Achievement_CloakWatch"	"Cloak and Dagger"
+"TF_Unique_Achievement_FeignWatch"	"Dead Ringer"
+"TF_Unique_Achievement_Revolver"	"Ambassador"
+"TF_Unique_Backstab_Shield"		"Razorback"
 "TF_Unique_Achievement_Jar"		"Jarate"
-"TF_Unique_Achievement_CompoundBow"	"Huntsman"	// ADD THE
-"TF_Unique_Achievement_SoldierBuff"	"Buff Banner"	// ADD THE
-"TF_Unique_Achievement_Pickaxe"		"Equalizer"	// ADD THE
+"TF_Unique_Achievement_CompoundBow"	"Huntsman"
+"TF_Unique_Achievement_SoldierBuff"	"Buff Banner"
+"TF_Unique_Achievement_Pickaxe"		"Equalizer"
 "TF_Unique_Pickaxe_EscapePlan"		"Escape Plan" // ADD THE
-"TF_Unique_Achievement_RocketLauncher" 	"Direct Hit"	// ADD THE
-"TF_Unique_Achievement_StickyLauncher"	"Scottish Resistance"	// ADD THE
-"TF_Unique_Achievement_Shield"		"Chargin' Targe"	// ADD THE
-"TF_Unique_Achievement_Sword" 		"Eyelander"	// ADD THE
-"TF_Unique_Blast_Boots"			"Gunboats"	// ADD THE
-"TF_Unique_Sentry_Shotgun"		"Frontier Justice"	// ADD THE
-"TF_Unique_Achievement_Laser_Pointer"	"Wrangler"	// ADD THE
-"TF_Unique_Robot_Arm"			"Gunslinger"	// ADD THE
-"TF_Unique_SledgeHammer"			"Homewrecker"	// ADD THE
-"TF_Unique_Makeshiftclub"			"Pain Train"	// ADD THE
-"TF_Unique_Lunchbox_Chocolate"		"Dalokohs Bar"	// ADD THE
+"TF_Unique_Achievement_RocketLauncher" 	"Direct Hit"
+"TF_Unique_Achievement_StickyLauncher"	"Scottish Resistance"
+"TF_Unique_Achievement_Shield"		"Chargin' Targe"
+"TF_Unique_Achievement_Sword" 		"Eyelander"
+"TF_Unique_Blast_Boots"			"Gunboats"
+"TF_Unique_Sentry_Shotgun"		"Frontier Justice"
+"TF_Unique_Achievement_Laser_Pointer"	"Wrangler"
+"TF_Unique_Robot_Arm"			"Gunslinger"
+"TF_Unique_SledgeHammer"			"Homewrecker"
+"TF_Unique_Makeshiftclub"			"Pain Train"
+"TF_Unique_Lunchbox_Chocolate"		"Dalokohs Bar"
 "TF_Lunchbox_Chocolate_desc"		"Eat to gain up to 100 health.\nAlt-fire: Share chocolate with a friend (Small Health Kit)"
-"TF_Unique_Lunchbox_Banana"			"Second Banana"	// ADD THE
+"TF_Unique_Lunchbox_Banana"			"Second Banana"
 "TF_Lunchbox_Banana_desc"			"Eat to gain health.\nAlt-fire: Share banana with a friend (Small Health Kit)"
-"TF_TTG_MaxGun"						"Lugermorph"	// ADD THE
-"TF_TTG_SamRevolver"				"Big Kill"	// ADD THE
+"TF_TTG_MaxGun"						"Lugermorph"
+"TF_TTG_SamRevolver"				"Big Kill"
 "TF_Unique_EnergyDrink_CritCola"	"Crit-a-Cola"
-"TF_Unique_Golden_Wrench"			"Golden Wrench"	// ADD THE
-"TF_Unique_TribalmanKukri"			"Tribalman's Shiv"	// ADD THE
-"TF_Unique_BattleAxe"				"Scotsman's Skullcutter"	// ADD THE
-"TF_Unique_BattleSaw"				"Vita-Saw"	// ADD THE
+"TF_Unique_Golden_Wrench"			"Golden Wrench"
+"TF_Unique_TribalmanKukri"			"Tribalman's Shiv"
+"TF_Unique_BattleAxe"				"Scotsman's Skullcutter"
+"TF_Unique_BattleSaw"				"Vita-Saw"
 "TF_Unique_BattleSaw_Desc"			"A percentage of your ÜberCharge level is retained on death, based on the number of organs harvested (15% per). Total ÜberCharge retained on spawn caps at 60%."
-"TF_Unique_Combat_Wrench"			"Southern Hospitality"	// ADD THE
-"TF_Unique_MediGun_QuickFix"		"Quick-Fix"	// ADD THE
+"TF_Unique_Combat_Wrench"			"Southern Hospitality"
+"TF_Unique_MediGun_QuickFix"		"Quick-Fix"
 "TF_Unique_MediGun_Resist"			"Vaccinator" // ADD THE
-"TF_ThePowerjack"			"Powerjack"	// ADD THE
-"TF_TheDegreaser"			"Degreaser"	// ADD THE
-"TF_TheShortstop"			"Shortstop"	// ADD THE
+"TF_ThePowerjack"			"Powerjack"
+"TF_TheDegreaser"			"Degreaser"
+"TF_TheShortstop"			"Shortstop"
 "TF_LEtranger"				"L'Etranger"
 "TF_EternalReward"			"Your Eternal Reward"
-"TF_TheBattalionsBackup"		"Battalion's Backup"	// ADD THE
-"TF_TheBlackBox"			"Black Box"	// ADD THE
-"TF_SydneySleeper"			"Sydney Sleeper"	// ADD THE
+"TF_TheBattalionsBackup"		"Battalion's Backup"
+"TF_TheBlackBox"			"Black Box"
+"TF_SydneySleeper"			"Sydney Sleeper"
 "TF_DarwinsDangerShield"		"Darwin's Danger Shield"
-"TF_TheBushwacka"			"Bushwacka"	// ADD THE
-"TF_TheHolyMackerel"			"Holy Mackerel"	// ADD THE
+"TF_TheBushwacka"			"Bushwacka"
+"TF_TheHolyMackerel"			"Holy Mackerel"
 "TF_MadMilk"				"Mad Milk"
-"TF_Weapon_RocketLauncher_Jump"		"Rocket Jumper"	// ADD THE
-"TF_Weapon_StickyBomb_Jump"		"Sticky Jumper"	// ADD THE
-"TF_Unique_FryingPan"		"Frying Pan"	// ADD THE
+"TF_Weapon_RocketLauncher_Jump"		"Rocket Jumper"
+"TF_Weapon_StickyBomb_Jump"		"Sticky Jumper"
+"TF_Unique_FryingPan"		"Frying Pan"
 "TF_Gold_FryingPan"			"Golden Frying Pan"
-"TF_HalloweenBoss_Axe"			"Horseless Headless Horsemann's Headtaker"	// ADD THE
-"TF_Iron_Curtain"			"Iron Curtain"	// ADD THE
-"TF_TTG_Watch"				"Enthusiast's Timepiece"	// ADD THE
-"TF_Amputator"				"Amputator"	// ADD THE
-"TF_CrusadersCrossbow"			"Crusader's Crossbow"	// ADD THE
+"TF_HalloweenBoss_Axe"			"Horseless Headless Horsemann's Headtaker"
+"TF_Iron_Curtain"			"Iron Curtain"
+"TF_TTG_Watch"				"Enthusiast's Timepiece"
+"TF_Amputator"				"Amputator"
+"TF_CrusadersCrossbow"			"Crusader's Crossbow"
 "TF_CrusadersCrossbow_desc"		"Fires special bolts that heal teammates and deals damage\nbased on distance traveled\nThis weapon will reload automatically when not active"
 "TF_UllapoolCaber"			"Ullapool Caber" // ADD THE
 "TF_LochNLoad"				"Loch-n-Load" // ADD THE
@@ -594,14 +594,14 @@ Build teleporters to help team mates get to the front lines!"
 "TF_MarketGardener"			"Market Gardener" // ADD THE
 "TF_ReserveShooter"			"Reserve Shooter" // ADD THE
 "TF_LibertyLauncher"			"Liberty Launcher" // ADD THE
-"TF_Weapon_Flaregun_Detonator"		"Detonator"	// ADD THE
+"TF_Weapon_Flaregun_Detonator"		"Detonator"
 "TF_Weapon_Flaregun_Detonator_Desc"	"Alt-Fire: Detonate flare.\nThis weapon will reload automatically when not active."
 "TF_Tomislav"				"Tomislav"
 "TF_RussianRiot"			"Family Business" // ADD THE
 "TF_EvictionNotice"			"Eviction Notice" // ADD THE
-"TF_Minigun_Deflector"			"Deflector"	// ADD THE
+"TF_Minigun_Deflector"			"Deflector"
 "TF_Saxxy"				"Saxxy" // ADD THE
-"TF_SolemnVow"				"Solemn Vow"	// ADD THE
+"TF_SolemnVow"				"Solemn Vow"
 "TF_SolemnVow_Desc"			"'Do no harm.'"
 "TF_Weapon_Bust"			"Bust of Hippocrates"
 "TF_NineIron"				"Nessie's Nine Iron"
@@ -688,7 +688,7 @@ Build teleporters to help team mates get to the front lines!"
 "TF_RiftFireAxe_Desc"				"Improves upon Mother Nature's original\ndesign for volcanos by increasing portability.\nModern science is unable to explain exactly\nwhere the lava is coming from."
 "TF_RiftFireMace_Desc"			"Spiky end goes into other man."
 
-"TF_Unique_Gloves_of_Running_Urgently"	"Gloves of Running Urgently"	// ADD THE
+"TF_Unique_Gloves_of_Running_Urgently"	"Gloves of Running Urgently"
 
 
 "TF_Weapon_Frag"		"Frag Grenade"
@@ -3575,6 +3575,15 @@ Build teleporters to help team mates get to the front lines!"
 "LFE_Ignore"							"Ignore"
 "LFE_Warning_Title"						"WARNING!"
 "LFE_Warning_InstallTF2"				"This game requires TF2 to be installed"
+
+// LFE Definitive Edition
+
+"TF_Weapon_Spy_Sapper_desc"				"Umieść na konstrukcji wroga, by ją wyłączyć i stopniowo obniżać jej wytrzymałość. Umieszczenie sapera nie usunie twojego przebrania."
+"Attrib_BurnDamageEarnsRage"				"Nagromadź „Mmmph”, zadając obrażenia"
+"Attrib_BurnDamageEarnsRage_1"				"Atak alternatywny przy pełnym „Mmmph”: użyj drwiny, by uzyskać trafienia krytyczne na kilka sekund"
+"Attrib_BurnDamageEarnsRage_2"				"Niewrażliwość na obrażenia podczas drwiny z „Mmmph”"
+"LFE_Leap"				"WYŁĄCZONY"
+
 }
 
 }
