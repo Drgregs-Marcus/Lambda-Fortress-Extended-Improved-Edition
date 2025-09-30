@@ -1,5 +1,31 @@
 # Lambda Fortress Extended : Definitive Edition
-Lambda Fortress Extended : Definitive Edition [ LFE:DE for short ] is a client-sided mod for Lambda Fortress : Extended that aims to fix as many issues as possible without any source-code modification.
+## Lambda Fortress Extended : Definitive Edition [ LFE:DE for short ] is a client-sided mod for Lambda Fortress : Extended that aims to fix as many issues as possible without any source-code modification.
+
+# Install instructions:
+1. Download by clicking on Code > Download Zip
+2. Create custom folder in your tf_coop_extended folder (ignore this step if you already have a custom folder)
+3. Extract the pack to the custom folder
+4. Enjoy
+ 
+ 
+ 
+Github desktop install instructions:
+1. Download Github desktop: https://desktop.github.com/
+2. Create custom folder in your tf_coop_extended folder (ignore this step if you already have a custom folder)
+3. Add > Clone repository > URL > Paste this in text box:(https://github.com/Drgregs-Marcus/Lambda-Fortress-Extended-Definitive-Edition)
+4. Change Local Path to: C:\Program Files (x86)\Steam\steamapps\sourcemods\tf_coop_extended\custom (or whatever your TF_COOP_EXTENDED Custom folder Directory is)
+5. Clone
+6. Now you can easily update the pack by doing: Fetch origin > Pull origin
+7. Enjoy
+ 
+Note: I know the second one might be a lot harder, but it does save time and disk space in the future.
+ 
+Uninstall instructions:
+ 
+Step 1. Locate your Custom folder that is inside TF_COOP_EXTENDED 
+Step 2. Remove the "Lambda-Fortress-Extended-Definitive-Edition" folder
+ 
+
 
 
 ## Improved Special Classes
@@ -66,7 +92,7 @@ loadout menu displays commands to enable special classes, commands to use specia
 ## Can't/Won't fix
 
 
-The "Use minimalized viewmodels" option not functioning ( Reason: Source code modification )
+The "Use minimalized viewmodels" option is not functioning ( Reason: Source code modification )
 
 AR2 Primary Fire not functioning ( Reason: Source code modification / Large amounts of items_game.txt changes )
 
@@ -76,7 +102,7 @@ Non-Functional LEAP meter ( Reason: Source code modification / Large amounts of 
 
 Ammo HUD element on Fast Zombie Claw ( Reason: Source code modification / Large amounts of items_game.txt changes )
 
-TFC Medikit crashing game on use ( Reason: Source code modification / Large amounts of items_game.txt changes )
+TFC Medikit is crashing the game on use ( Reason: Source code modification / Large amounts of items_game.txt changes )
 
 
 # WARNING! INCOMPATIBLE WITH ANY CUSTOM WEAPON PACKAGE!
